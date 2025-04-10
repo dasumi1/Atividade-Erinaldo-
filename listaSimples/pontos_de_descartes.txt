@@ -1,0 +1,50 @@
+1;Metal;Rua das Flores, 123, Centro
+2;Metal;Avenida Brasil, 456, Jardim América
+3;Vidro;Rua São Paulo, 789, Vila Nova
+4;Papel;Alameda Santos, 321, Centro
+5;Eletrônicos;Rua da Paz, 654, Jardim Europa
+6;Matéria Orgânica;Avenida Paulista, 987, Bela Vista
+7;Material Tóxico;Rua Oscar Freire, 135, Pinheiros
+8;Plástico;Rua Augusta, 246, Consolação
+9;Metal;Avenida Rebouças, 864, Pinheiros
+10;Vidro;Rua Haddock Lobo, 753, Cerqueira César
+11;Papel;Rua da Consolação, 951, República
+12;Eletrônicos;Avenida Brigadeiro Faria Lima, 284, Itaim Bibi
+13;Matéria Orgânica;Rua Joaquim Floriano, 672, Itaim Bibi
+14;Material Tóxico;Rua Fradique Coutinho, 391, Pinheiros
+15;Plástico;Rua Bela Cintra, 824, Jardins
+16;Metal;Avenida Angélica, 537, Higienópolis
+17;Vidro;Rua Frei Caneca, 168, Consolação
+18;Papel;Rua Maria Antônia, 279, Vila Buarque
+19;Eletrônicos;Rua Teodoro Sampaio, 683, Pinheiros
+20;Matéria Orgânica;Rua Piauí, 496, Higienópolis
+21;Material Tóxico;Rua Estados Unidos, 715, Jardim América
+22;Plástico;Avenida São João, 328, Centro
+23;Metal;Rua Xavier de Toledo, 942, República
+24;Vidro;Rua 24 de Maio, 571, Centro
+25;Papel;Rua Barão de Itapetininga, 864, República
+26;Eletrônicos;Rua São Bento, 197, Centro
+27;Matéria Orgânica;Rua Líbero Badaró, 283, Centro
+28;Material Tóxico;Rua Direita, 619, Sé
+29;Plástico;Rua Quintino Bocaiúva, 752, Sé
+30;Metal;Rua Benjamin Constant, 438, Sé
+31;Vidro;Rua do Carmo, 861, Sé
+32;Papel;Rua José Bonifácio, 394, Sé
+33;Eletrônicos;Rua Álvares Penteado, 527, Centro
+34;Matéria Orgânica;Rua Boa Vista, 682, Centro
+35;Material Tóxico;Rua da Quitanda, 179, Centro
+36;Plástico;Avenida Ipiranga, 893, República
+37;Metal;Rua 7 de Abril, 246, República
+38;Vidro;Rua Dom José de Barros, 531, República
+39;Papel;Rua do Arouche, 768, República
+40;Eletrônicos;Rua Aurora, 395, Santa Ifigênia
+41;Matéria Orgânica;Rua Vitória, 824, República
+42;Material Tóxico;Rua São Luís, 157, República
+43;Plástico;Rua Augusta, 263, Consolação
+44;Metal;Rua Peixoto Gomide, 948, Cerqueira César
+45;Vidro;Rua Bento Freitas, 731, Vila Mariana
+46;Papel;Rua Vergueiro, 862, Paraíso
+47;Eletrônicos;Avenida 9 de Julho, 394, Jardim Paulista
+48;Matéria Orgânica;Rua Dr. Vila Nova, 517, Vila Mariana
+49;Material Tóxico;Rua Loefgren, 286, Vila Mariana
+50;Plástico;Avenida Indianópolis, 679, Moema
